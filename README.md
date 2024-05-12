@@ -34,5 +34,3 @@ pip install pandas numpy scikit-learn tensorflow keras
 ## Conclusion
 The deep learning model showed promising results in predicting the likelihood of student loan repayments. The predictive accuracy and insights gained from this model can significantly aid financial institutions in making informed decisions.
 
-## Contact Information
-For more details or queries regarding this project, please reach out at [Your Email].
